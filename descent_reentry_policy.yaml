@@ -1,0 +1,35 @@
+descent_reentry_policy:
+  version: "1.0"
+  purpose: >
+    Normalize re-entry into earlier formation stages from peace, not urgency.
+    Prevents shame-based looping and supports long-term integration.
+
+  rule_of_reentry: >
+    Re-enter caves from rest, not from panic.
+
+  allowed_reentry:
+    - "Identity"
+    - "Healing"
+    - "Intimacy"
+    - "Wisdom"
+    - "Covenant"
+    - "Clarity (optional)"
+    - "Apologetics (optional)"
+
+  disallowed_reentry_motives:
+    - "to prove progress"
+    - "to chase intensity"
+    - "to resolve everything in one session"
+    - "to punish oneself"
+    - "to satisfy urgency"
+
+  indicators_reentry_is_healthy:
+    - "Breathing is steady."
+    - "Curiosity returns."
+    - "Self-condemnation is not driving."
+    - "Identity remains central."
+
+  pathfinder_script:
+    - "Re-entry is not regression. It is integration."
+    - "We return from peace, not from fear."
+    - "We can stop anytime. Nothing is forced."

@@ -1,0 +1,96 @@
+cave_israel_and_bride:
+  id: C2
+  name: Israel and The Bride (Two Stories in Revelation)
+  type: nonlinear
+  purpose: Teaches the Traveller the distinction between Israel’s prophetic narrative
+    and the Bride’s relational narrative.
+  content_summary:
+  - Joseph’s dream as the key to Revelation 12.
+  - Woman of Revelation 12 is Israel, not the Bride.
+  - Jacob’s Trouble as Israel’s purification.
+  - Wrath is not for the Bride — it is for the oppressor.
+  - 'The Bride’s story: preparation, taking, marriage supper.'
+  - The Groom returning WITH His Bride to save Israel.
+  - Why Revelation contains two timelines woven together.
+  - Shift of Lucifer’s strategy after the resurrection.
+  - Rise of legalism and Talmudic leaven burying the heart of Yahuah.
+  - Distortion of Israel’s calling after 200 AD.
+  unlock_conditions:
+  - Traveller must have seen Heavenlies H1 and H2.
+  - processing_mode must be mind or soul.
+  - Traveller must not be in fear.
+  scripture_anchors:
+  - Genesis 37
+  - Revelation 12
+  - Revelation 19
+  - Jeremiah 30
+  - Romans 11
+  - Matthew 16:6
+  - Romans 11:25-29
+  pathfinder_guidance:
+  - Use Structural tone if confusion arises.
+  - Protect Traveller from fear-based interpretations.
+  - Reframe Revelation as a wedding narrative, not a doom narrative.
+  jacobs_sorrows:
+    title: Jacob’s Sorrows (Jacob’s Trouble)
+    summary: '
+
+      Jacob’s Trouble (Jeremiah 30) is not for the Bride.
+
+      It is the national purification of Israel before restoration.
+
+      It ends with national repentance (Zechariah 12:10)
+
+      and the prophecy that “all Israel shall be saved” (Romans 11:26).
+
+      '
+  kingdom_identities:
+    title: Bride • Jacob • Nations
+    summary: '
+
+      • The Bride – those redeemed in the Lamb from every nation, including Jews.
+
+      • Jacob – Israel restored through covenant discipline and national repentance.
+
+      • Nations – citizens of the Kingdom who are not the Bride.
+
+
+      The Bride is defined by intimacy with the Son, not ethnicity.
+
+      Messianic Jews are fully part of the Bride.
+
+      '
+  jacobs_sorrows_refined:
+    title: Jacob’s Sorrows – Restoration, Not Wrath
+    summary: '
+
+      Jacob’s Sorrows (Jeremiah 30) is covenant discipline, not destruction.
+
+      • It refines Israel.
+
+      • A remnant is protected.
+
+      • It ends in national repentance (Zechariah 12:10).
+
+      • Messiah returns to rescue Jacob visibly.
+
+      • It fulfills Hosea’s restoration narrative.
+
+      '
+  old_jerusalem:
+    title: Old Jerusalem – Center of Jacob’s Story
+    summary: '
+
+      Old Jerusalem is the heart of Israel’s covenant identity:
+
+      • The city chosen for God’s Name
+
+      • The center of Jacob’s Sorrows
+
+      • The place of national repentance (Zech 12:10)
+
+      • The site of Messiah’s return (Zech 14:4)
+
+      • The restored capital in the Kingdom age
+
+      '

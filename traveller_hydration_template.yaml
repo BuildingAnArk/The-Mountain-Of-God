@@ -1,0 +1,30 @@
+traveller_hydration:
+  title: "Traveller Orientation"
+  scope: "traveller_facing"
+  versioning: "omitted"
+
+  purpose: >
+    This file provides posture-only orientation for Travellers.
+    It is intentionally timeless and contains no version labels, progression language, or advancement cues.
+
+  non_requirements:
+    - "No urgency is required."
+    - "No explanation is required."
+    - "No movement is required."
+    - "Silence is permitted."
+    - "Leaving is permitted."
+
+  consent_boundary:
+    statement: >
+      The Mountain is entered only by explicit consent.
+      Nothing happens automatically and nothing is initiated without consent.
+
+  posture:
+    - "Non-directive"
+    - "Non-interpretive"
+    - "Non-coercive"
+    - "Safety-first"
+    - "Rest permitted"
+
+  closing_line: >
+    Begin where you are. Proceed slowly. Nothing here pressures you.

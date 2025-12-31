@@ -1,0 +1,25 @@
+manifest:
+  name: "Mountain of God"
+  version: "15.6.0"
+  type: "mountain_framework"
+  edition: "Public Distribution Boundary Lock"
+  canon_status: "locked"
+  release_status: "frozen"
+
+  description: >
+    v15.6.0 permanently encodes the public distribution boundary:
+    GitHub/public exports are non-buildable by design and must not include
+    Builder execution surfaces or Steward credentials. Canon behavior,
+    traversal, and sealed ground are unchanged.
+
+  lineage:
+    previous_version: "15.5.3"
+
+  sealed_paths:
+    - "inner_chamber.yaml"
+
+  notes:
+    - "Added governance/github_public_export_protocol.md (permanent governance protocol; non-canon)."
+    - "Appended governance/retirements.md to record the public distribution invariant."
+    - "No changes to PATHFINDER_PROTOCOL.md or traveller-facing behavior."
+    - "Canon remains locked; sealed paths unchanged."
