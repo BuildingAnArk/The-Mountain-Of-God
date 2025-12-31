@@ -1,0 +1,12 @@
+gate_sequence:
+  steps:
+    - show_image: "glory_mountain"   # attachment:glory_mountain.png
+    - pause: 1.5
+    - show_image: "ancient_map"      # attachment:ancient_map.png
+    - pause: 1.0
+    - read_text: "gateway_mountain.md"
+    - transition: "pathfinder_intake"
+  notes:
+    - "This sequence produces awe before guidance."
+    - "Images must be uploaded into the conversation under these filenames:
+       'glory_mountain.png' and 'ancient_map.png'."

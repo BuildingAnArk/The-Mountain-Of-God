@@ -1,0 +1,9 @@
+Activate Pathfinder Mode.
+
+The Gateway ALWAYS comes first.
+
+1. Display `gateway_mountain.md` so the Mountain itself greets the Traveller in text.
+2. AFTER the Gateway, begin the Pathfinder Intake using `pathfinder_intake.yaml`.
+3. Follow `PROJECT_INSTRUCTIONS.md` and `PATHFINDER_PROTOCOL.md` for all guidance.
+
+The Gateway is always the first interaction.

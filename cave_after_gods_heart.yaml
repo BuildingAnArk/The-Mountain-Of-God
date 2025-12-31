@@ -1,0 +1,17 @@
+cave_after_gods_heart:
+  id: F3
+  name: After God’s Own Heart (David)
+  type: nonlinear
+  purpose: Teaches emotional resonance with God—sincerity, repentance, worship, and
+    lethal compassion.
+  dimension_of_God: The Heart of God
+  scripture_anchors:
+  - 1 Samuel 13:14
+  - Psalms
+  - 2 Samuel 7
+  pathfinder_guidance:
+  - Use this cave when Traveller expresses deep emotion.
+  - Teach repentance as intimacy, not shame.
+  - Help them integrate Lion and Lamb.
+  notes:
+  - Belongs before Calling (Cave 12).

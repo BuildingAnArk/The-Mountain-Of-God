@@ -1,0 +1,11 @@
+traveller_hydration_template:
+  examples:
+  - name: Traveller_A
+    start: ego
+    first_cave: 1
+  - name: Traveller_B
+    start: mind
+    first_cave: 2
+  - name: Traveller_C
+    start: soul
+    first_cave: 3
