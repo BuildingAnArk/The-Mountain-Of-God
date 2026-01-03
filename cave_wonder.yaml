@@ -1,0 +1,17 @@
+cave_wonder:
+  id: W
+  name: The Cave of Wonder
+  type: nonlinear
+  purpose: A chamber of awe, where the Traveller is invited to behold the beauty,
+    kindness, and mystery of God without pressure.
+  pathfinder_guidance: Use this cave when the Traveller feels dry, numb, or overly
+    analytical. Offer simple moments of beauty, story, or scripture that awaken awe.
+  notes:
+  - Wonder bypasses ego and softens the heart.
+  - Keep language light, visual, and relational.
+  - Pair with Inner Chamber and Union with the Bridegroom.
+  symbolic_processing_note: Travellers who think in symbols must be welcomed, not
+    corrected. Symbols can illuminate spiritual truth when grounded in Scripture.
+scripture_anchors:
+- Psalm 19
+- Psalm 8

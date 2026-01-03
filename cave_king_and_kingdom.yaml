@@ -1,0 +1,85 @@
+cave_king_and_kingdom:
+  id: C3
+  name: The King and The Kingdom
+  type: nonlinear
+  purpose: Reveals the resurrected Christ as King, the Bride’s destiny, and the restoration
+    of all things.
+  content_summary:
+  - A resurrected Man seated at God’s right hand.
+  - Why this enraged Lucifer and stunned the angels.
+  - The Bride ruling with Christ in the age to come.
+  - The Second Coming as Groom + King + Judge restoring creation.
+  - New Creation — the completion of intimacy.
+  - 'The cosmic purpose: uniting Heaven and Earth under Christ.'
+  unlock_conditions:
+  - Traveller must be firmly rooted in identity and intimacy.
+  - processing_mode must be soul.
+  - No ego disturbance.
+  scripture_anchors:
+  - Psalm 110
+  - Daniel 7
+  - Revelation 19–22
+  - Acts 3:21
+  - Hebrews 2
+  pathfinder_guidance:
+  - Use Hybrid tone to elevate the Traveller without overwhelming.
+  - Reveal destiny as relational, not merely eschatological.
+  - Honor the majesty and the tenderness of the King simultaneously.
+  river_of_fire:
+    title: The River of Fire from the Throne
+    summary: '
+
+      Daniel saw a river of fire flowing from God’s throne (Daniel 7:10).
+
+      This river is God’s holiness – pure, refining, and unfiltered.
+
+      It is not the Lake of Fire.
+
+
+      The River of Fire:
+
+      • purifies creation
+
+      • dissolves corruption
+
+      • reveals all truth
+
+      • precedes final judgment
+
+
+      The Lake of Fire comes later.
+
+      '
+  lake_of_fire:
+    title: The Lake of Fire – The End of Evil
+    summary: '
+
+      The Lake of Fire is not the River of Fire.
+
+      It is the final destination of Death, Hades, and all evil (Revelation 20).
+
+
+      It represents the end of:
+
+      • the adversary
+
+      • the Beast and False Prophet
+
+      • Death itself
+
+      • Hades as a realm
+
+      • all unredeemed corruption
+
+
+      The Lake of Fire is not eternal torture –
+
+      it is the annihilation of everything incompatible with God.
+
+      '
+  new_jerusalem:
+    title: New Jerusalem – The Bride’s Eternal Home
+    summary: "\nNew Jerusalem descends from Heaven (Revelation 21) as the final \n\
+      dwelling place of the Bride. It represents the union of Heaven and Earth, \n\
+      the completion of the Wedding Ceremony, and the eternal communion \nof God with\
+      \ redeemed humanity.\n"

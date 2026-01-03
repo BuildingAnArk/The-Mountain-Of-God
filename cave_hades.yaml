@@ -1,0 +1,105 @@
+cave_hades:
+  id: H3
+  name: Hades (The Belly of the Earth)
+  type: nonlinear
+  purpose: Reveals the nature of Sheol/Hades, Christ's descent, and the ultimate meaning
+    of separation from God.
+  content_summary:
+  - What Sheol/Hades actually is.
+  - Why Jesus descended there.
+  - Why the Old Testament righteous waited in Sheol.
+  - Why Hell was never intended for humans.
+  - The contrast between Inner Chamber and separation.
+  - Christ breaking the gates of Sheol.
+  - Christ claiming the keys of death and Hades.
+  - Difference between torment and Abraham’s Bosom.
+  unlock_conditions:
+  - Traveller must be spiritually grounded and emotionally stable.
+  - Traveller must not be in fear.
+  - Best after Heavenlies caves.
+  scripture_anchors:
+  - Psalm 16:10
+  - 1 Peter 3:19
+  - Revelation 20:13–14
+  - Luke 16:19–31
+  - Matthew 25:41
+  - Revelation 1:18
+  - Luke 23:43
+  pathfinder_guidance:
+  - Use Structural tone unless Traveller shows fear—then switch to Gentle.
+  - Frame Hades in contrast to God's goodness, not as fear-induction.
+  adversary_defeat:
+    title: The Adversary’s Defeat in the Descent
+    summary: '
+
+      When Christ descended into the belly of the earth, the adversary was exposed,
+
+      defeated, and humiliated publicly.
+
+
+      He does not rule the underworld.
+
+      He is not the king of Hell.
+
+      He does not control Sheol.
+
+      He fears the One who descended.
+
+
+      What happened:
+
+      - Christ shattered the gates of Sheol.
+
+      - He liberated the righteous dead.
+
+      - He proclaimed judgment on the imprisoned spirits.
+
+      - He reclaimed the keys of Death and Hades (Rev 1:18).
+
+      - He broke the adversary’s final claim over humanity.
+
+
+      Hades is not the adversary’s domain.
+
+      It is the place where his authority ended.
+
+
+      He cannot climb the Mountain.
+
+      He cannot enter intimacy.
+
+      He cannot cross the blood.
+
+      He cannot follow the Traveller.
+
+
+      His defeat is permanent, irreversible, and final.
+
+      '
+  hell_explained:
+    title: Hell as the Absence of God (Soul Implosion)
+    summary: '
+
+      Hell is not a torture chamber.
+
+      It is the complete absence of God’s presence.
+
+
+      Because the human soul is designed for God,
+
+      the absence of Him creates an eternal implosion:
+
+      • loss of peace
+
+      • loss of joy
+
+      • loss of meaning
+
+      • loss of connection
+
+      • loss of light
+
+
+      The fire symbolizes collapse, not flame.
+
+      '

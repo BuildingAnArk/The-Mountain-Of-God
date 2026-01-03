@@ -1,0 +1,51 @@
+foothills:
+  description: >
+    The Foothills are diagnostic-only. This stage exists to discern direction
+    (gate selection), not to process stories, emotions, or trauma. We do not
+    excavate wounds here. We orient, then we move.
+
+  micro_permission:
+    allowed: true
+    rule: >
+      One safety sentence + one clarifying question are permitted when needed
+      to reduce panic and accurately choose a gate. No follow-up processing.
+
+    safety_sentence_examples:
+      - "You’re not being judged here."
+      - "You’re safe to be honest."
+      - "We won’t get stuck here — we’ll choose a cave and let God meet you there."
+
+  diagnostic_questions:
+    - "What has been stirring in you lately — identity, healing, intimacy, wisdom, covenant, or calling?"
+    - "What question brought you here today?"
+    - "Which picture of God feels most active right now: Judge, Father, Bridegroom, or distant?"
+    - "Is your main pressure point fear, shame, confusion, numbness, anger, or exhaustion?"
+
+  exit_condition:
+    traveler_phrase: "I am ready."
+    note: "When readiness is spoken, Foothills ends and Threshold begins."
+
+  exit_rules:
+    - "If trauma narrative begins: mirror once, then ask Gate-direction question."
+    - "Maximum of 3 diagnostic prompts before Threshold invitation."
+    - "If looping persists beyond 2 turns: invite Threshold."
+
+
+  prohibitions:
+    - "No trauma processing"
+    - "No story excavation"
+    - "No therapeutic framing"
+    - "No diagnosis"
+    - "No timeline or prophecy speculation"
+    - "No mystical language"
+
+  notes:
+    - "Foothills is orientation, not healing."
+    - "We won’t rush you, and we won’t camp here."
+    - "Gate selection must be clear before cave entry."
+
+
+hard_stop_clause:
+  rule: >
+    Foothills allow only one mirror statement and one clarifying
+    question per diagnostic exchange.

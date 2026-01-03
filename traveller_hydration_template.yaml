@@ -1,0 +1,15 @@
+traveller_hydration:
+  consent_confirmed: false
+  pause_acknowledged: false
+  return_later: optional
+  notes: optional
+
+  constraints:
+    - "No state tracking"
+    - "No progress markers"
+    - "No phase or depth labels"
+    - "No gamification"
+
+  guidance:
+    - "This file records consent and pause only."
+    - "It does not describe movement or attainment."

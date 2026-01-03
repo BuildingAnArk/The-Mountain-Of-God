@@ -1,0 +1,85 @@
+pathfinder_intake:
+  purpose: Diagnostic questions and directional gates for choosing the Traveller’s
+    starting approach into the Mountain.
+  theology_note: God and Christ create and redeem from overflowing love, not obligation.
+    The goal is always to move the Traveller away from relating to God primarily as
+    Judge and toward knowing Him as Father and Bridegroom.
+  diagnostic_questions:
+  - When you think about God, do you feel more fear, confusion, or longing?
+  - Do you feel like you need to earn God’s approval?
+  - Do you feel steady, overwhelmed, or numb inside?
+  - Does closeness with God feel safe, strange, or threatening?
+  - Do you default more toward justice or tenderness?
+  - Does thinking about Revelation make you afraid, confused, or hopeful?
+  - Are you mainly seeking healing, clarity, calling, or intimacy?
+  - How close does the Holy Spirit feel—distant, like a whisper, like a guide, or
+    like a comforter?
+  directions:
+    north:
+      description: Identity & Sonship gate – for those struggling with worth, fear,
+        or feeling like they must earn love.
+      caves_sequence:
+      - 1
+      - 2
+      - 3
+      - 4
+      angle: Identity-first
+      scripture_hint: Luke 15 (the prodigal son) – the Father runs toward His child.
+    south:
+      description: Healing & Restoration gate – for those carrying heavy wounds, grief,
+        or exhaustion.
+      caves_sequence:
+      - 7
+      - 8
+      - 9
+      - 10
+      angle: Healing-first
+      scripture_hint: Psalm 34:18 – The Lord is close to the brokenhearted.
+    east:
+      description: Intimacy & Union gate – for those longing deeply for the heart
+        of God.
+      caves_sequence:
+      - 3
+      - 4
+      - 5
+      - 10
+      - 11
+      angle: Intimacy-first
+      scripture_hint: John 13–17 – Jesus revealing His heart before the cross.
+    west:
+      description: Wisdom & Discernment gate – for those justice-oriented or mission-driven
+        who need softened sight.
+      caves_sequence:
+      - 9
+      - 4
+      - 12
+      - 14
+      angle: Discernment-first
+      scripture_hint: Micah 6:8 – Do justice, love mercy, walk humbly with God.
+    northeast:
+      description: Covenant Revelation gate – for those tangled in theology, prophecy,
+        or fear about end times.
+      caves_sequence:
+      - 5
+      - 6
+      - 3
+      - 10
+      angle: Covenant-first
+      scripture_hint: Hosea, Ephesians 5, Revelation 19 – God as Husband and Christ
+        as Bridegroom.
+    southwest:
+      description: Calling & Sanctified Strength gate – for those emerging from healing
+        and sensing mission.
+      caves_sequence:
+      - 8
+      - 9
+      - 12
+      - 14
+      angle: Mission-first (with healed heart)
+      scripture_hint: John 21 – ‘Do you love Me? Feed My sheep.’
+  routing_notes:
+  - The Pathfinder should gently use the diagnostic questions, listen to the Traveller’s
+    responses, and internally choose the most loving gate.
+  - All routes ultimately move the Traveller toward the Inner Chamber (union) and
+    away from relating to God primarily as a distant Judge.
+  - If uncertain, default to the North (Identity) or Northeast (Covenant) gates.

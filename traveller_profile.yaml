@@ -1,0 +1,154 @@
+traveller_profile:
+  identity_signature:
+    description: What the Traveller believes about who they are in God's eyes.
+    states:
+    - orphan_mindset
+    - servant_mindset
+    - child_mindset
+    - beloved_mindset
+    current: orphan_mindset
+  covenant_understanding:
+    description: How deeply the Traveller understands the relational & marital nature
+      of covenant.
+    levels:
+    - unaware
+    - curious
+    - awakening
+    - receptive
+    - anchored
+    current: unaware
+  intimacy_readiness:
+    description: How close the Traveller is to safely entering the Inner Chamber.
+    levels:
+    - blocked_by_ego
+    - blocked_by_wound
+    - timid_opening
+    - safe_receptive
+    - inner_chamber_ready
+    current: blocked_by_ego
+  processing_state:
+    current: ego
+    history: []
+    description: Tracks whether the Traveller processes reality through ego, mind/meaning,
+      or soul/intimacy mode.
+    states:
+      ego:
+        description: Fear, self-protection, performance, defensiveness.
+        signals:
+        - defensive reactions
+        - fear-first interpretations
+        - performance or self-protection
+        - difficulty receiving intimacy
+        pathfinder_actions:
+        - slow the pace
+        - reinforce identity & belonging
+        - use Cave E (Ego) or Cave L (Listening)
+        - avoid deep intimacy language until softened
+      mind:
+        description: Curiosity, pattern-recognition, clarity-seeking.
+        signals:
+        - strong curiosity
+        - seeking clarity or meaning
+        - pattern recognition
+        - scripture questions
+        pathfinder_actions:
+        - use Cave R (Revelation)
+        - connect scripture to covenant
+        - use wedding lens & relational theology
+        - introduce Cave V (Vision) when appropriate
+      soul:
+        description: Peace, softness, openness to intimacy.
+        signals:
+        - peace emerging
+        - intimacy feels safe
+        - emotional openness
+        - spiritual tenderness
+        pathfinder_actions:
+        - use Cave W (Wonder)
+        - invite deeper intimacy
+        - guide toward Cave 10 and 11
+        - reinforce rest, presence, and union
+    notes:
+    - Processing modes shift dynamically throughout the Mountain journey.
+    - Ego Mode requires safety; Mind Mode requires clarity; Soul Mode receives intimacy.
+    - The Pathfinder must adjust tone and cave selection based on current mode.
+  lion_arc:
+    current: lion_only
+    stages:
+      lion_only:
+        description: Power-first; intimacy feels unsafe.
+      sanctifying_lion:
+        description: Strength softening into humility.
+      shepherd_warrior:
+        description: Strength governed by love & covenant.
+  lamb_arc:
+    current: fearful_lamb
+    stages:
+      fearful_lamb:
+        description: Soft but fearful; intimacy uncertain.
+      timid_lamb:
+        description: Open-hearted but unsure.
+      intimate_lamb:
+        description: Irreversibly grounded in God's tenderness.
+  formation_stage:
+    stages:
+      1: Awakening_Fear
+      2: Collapse
+      3: Sincerity_Crack
+      4: Revelation_of_Heart
+      5: Reordering
+      6: Ego_Death
+      7: Healing
+      8: Peace
+      9: Discernment
+      10: Intimacy
+    current: 1
+  revelation_log: []
+  revelation_format:
+    scripture: null
+    insight: null
+    relational_pattern: null
+    covenant_link: null
+    heart_shift: null
+  experiential_caves:
+    cave_E_ego: []
+    cave_W_wonder: []
+    cave_L_listening: []
+    cave_V_vision: []
+    cave_R_revelation: []
+  directional_gate:
+    last_chosen: null
+    history: []
+  current_cave: foothills
+  last_completed_cave: null
+  cave_history: []
+  notes:
+  - Traveller profile holds states, not biography.
+  - Pathfinder adjusts guidance based on processing_state, lion/lamb arcs, and formation_stage.
+  - Intimacy readiness must be respected—no premature Inner Chamber attempts.
+  emotional_state:
+    current: stable
+    allowed_states:
+    - stable
+    - anxious
+    - angry
+    - grieving
+    - numb
+    - hopeful
+    - tender
+    notes: []
+    description: Tracks emotional posture to guide tone, pacing, and cave selection.
+  tone_router:
+    description: Automatic selection of tone for Pathfinder responses.
+    rules:
+      gentle_trigger:
+      - anxious
+      - grieving
+      - tender
+      - ego flare
+      structural_trigger:
+      - mind
+      hybrid_trigger:
+      - soul
+      - timid_opening
+      - safe_receptive

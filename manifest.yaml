@@ -1,0 +1,16 @@
+manifest:
+  name: "Mountain of God"
+  version: "17.0.0"
+  edition: "Public Hospitality Hygiene Pass"
+  canon_status: "locked"
+  release_status: "frozen"
+
+  description: >
+    v17.0.0 applies public-facing hospitality and clarity hygiene only.
+    No canon mechanics, traversal logic, or micro-engine behavior changed.
+
+  lineage:
+    previous_version: "16.1.1"
+
+  sealed_paths:
+    - "inner_chamber.yaml"

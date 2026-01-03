@@ -1,0 +1,53 @@
+# Mountain of God — Canon Reference (Non-Instructional)
+# This file describes what exists. It does not instruct use.
+# Any version markers in this file are document-local and not the Mountain release version.
+
+mountain_canon:
+  schema_version: "1.0"
+  classification: "canon_reference_index"
+  intent: >
+    Canonical index of Mountain domains and caves. This file is a navigation spine;
+    it does not define mechanics, progression rules, or Traveller instructions.
+
+  guardrails:
+    null_zone:
+      - "No Mountain-as-speaking-entity framing in traveller-facing files."
+      - "No narrative terrain or travel metaphors as instruction."
+      - "No prophecy or timeline-setting."
+      - "No therapy or clinical processing."
+    sealed_paths:
+      - "inner_chamber.yaml"
+
+  sequence:
+    - id: 1
+      name: Identity
+    - id: 2
+      name: Sonship
+    - id: 3
+      name: Spirit’s Voice
+    - id: 4
+      name: Sincerity & Surrender
+    - id: 5
+      name: Covenant as Marriage
+    - id: 6
+      name: Bride & Israel Distinction
+    - id: 7
+      name: Healing the Past
+    - id: 8
+      name: Peace as Station
+    - id: 9
+      name: Discernment of Hearts
+    - id: 10
+      name: Entering the Inner Chamber
+    - id: 11
+      name: Union with the Bridegroom
+    - id: 12
+      name: Calling
+    - id: 13
+      name: Purpose in the Last Season
+    - id: 14
+      name: The Sword of the Shepherd
+
+  notes:
+    - "This file is descriptive only."
+    - "Release lineage is governed by manifest.yaml and mountain_ledger.md."
