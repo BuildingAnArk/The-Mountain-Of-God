@@ -1,58 +1,56 @@
 # Mountain and Ecosystem — bounded work plan
 
-**Standing:** proposed Linear seed, not an installed board.  
+**Standing:** installed coordination map; noncanonical preparation, not a release plan.  
 [Current understanding](HISTORY_AND_SHAPE.md) · [Source identities](SOURCE_CATALOG.json)
 
-## Project
+## Confirmed project
 
-**Proposed name:** Mountain of God and Ecosystem — Preservation and Evolution
+[The Mountain Of God](https://linear.app/enterprise-meg/project/the-mountain-of-god-e869b64ce87e) is project `P-ENT-2` inside Enterprise MEG. The owner selected this existing project. The earlier separate-workspace proposal is not the working arrangement.
 
-Preserve the product and its recoverable history; prepare a source-grounded structure and reviewed future bodies without prematurely rewriting the released ecosystem.
+Preserve the whole ecosystem and its recoverable history; prepare a source-grounded structure and complete future bodies without prematurely rewriting the product. Crossroads of the Seeker and related components remain in scope, although they are not yet represented as fully ingested sources in this public catalogue.
 
-The Mountain workspace/team remains to be confirmed. Do not silently place this project in an unrelated Enterprise queue. Search for an existing destination and work identity before creating records; recheck after an ambiguous response rather than blindly retrying.
-
-Start with one project and the selected team's ordinary statuses. Do not pre-create a project or office for every founder or component. The project description should hold scope, a brief checkpoint and source links, not another copy of the dossier. Do not change integrations or enable automatic issue synchronization as part of setup.
+The four source-plan keys below are not a new issue prefix. Linear owns current issue status, accepted assignments and receiving decisions. Do not create another status table here. Existing task acceptance criteria remain authoritative for their bounded preparation outcomes; their approval does not override product contracts.
 
 ## Initial outcomes
 
-These are stable preparation keys, not Linear issue numbers. No assignee, deadline or receiving acceptance is invented.
-
 ### MOG-PREP-01 — Establish source custody and applicable baselines
 
-**Deliver:** a classified register of the known starting sources and a scoped statement of baseline standing.
+**Owning work:** [Enterprise MEG ENT-38](https://linear.app/enterprise-meg/issue/ENT-38/establish-ecosystem-source-custody-and-applicable-baselines).
 
-**Accept when:** exact snapshot and artifact identities are recorded; selected originals and attachments have accessible approved custody; public/restricted boundaries and edition differences are explicit; the actual receiving custodian and material authority gaps are identified.
+**Deliver:** the classified known-source register, exact identities, approved custody and scoped baseline standing. [SOURCE_CATALOG.json](SOURCE_CATALOG.json) is its public subset, not the entire historical estate.
 
-This is a known-source baseline, not a claim of complete historical recovery. No bulk upload, privacy change or activation. Restricted intake depends on its approved destination.
+**Next bounded return:** establish the receiving custodian and restricted-source destination; identify which complete originals and attachments are actually recoverable. Preserve unknown release standing. Public-source mapping can proceed while private intake waits.
 
 ### MOG-PREP-02 — Prove one history contribution and correction cycle
 
-**Deliver:** one complete source family received, catalogued, explained and handed back without competing current accounts.
+**Owning work:** [Enterprise MEG ENT-39](https://linear.app/enterprise-meg/issue/ENT-39/prove-one-history-contribution-and-correction-cycle).
 
-**Accept when:** the original and attachments are preserved; source/intake dates are attributed; a correction is retained as a linked witness; the current account is updated as needed; any unresolved outcome has one work identity; original/correction retrieval and the receiver's disposition are recorded. NO_CHANGE is allowed.
+**Deliver:** one complete original and linked correction, retrievable in approved custody, with one current explanation and an actual receiving disposition. Apply the [receiving convention](HISTORY_AND_SHAPE.md#history-receiving-convention). NO_CHANGE and no new task are valid results.
 
-Applicable custody from MOG-PREP-01 is required for intake; method preparation can proceed earlier. Receipt is not product approval. Never solicit private testimony into public issues.
+**Dependency:** applicable custody before intake; method design may proceed earlier. Never solicit restricted testimony through public issues. Receipt does not approve publication, reinstatement or product edits.
 
 ### MOG-PREP-03 — Review the ecosystem source-to-destination map
 
-**Deliver:** a target-shape proposal justified by purpose, lineage, readers, dependencies and access class.
+**Owning work:** [Enterprise MEG ENT-40](https://linear.app/enterprise-meg/issue/ENT-40/review-the-ecosystem-source-to-destination-map).
 
-**Accept when:** each in-scope family has source identity, proposed location and reason; relocation is separated from semantic revision; important references are traced; preservation and NO_CHANGE dispositions are recorded; relevant readers have walked the proposed entrances; the actual reviewer and remaining uncertainties are named.
+**Deliver:** the [placement and reader map](HISTORY_AND_SHAPE.md#first-source-to-destination-map), then broaden it through classified sources. Each family needs purpose, identity, destination, readers, dependencies, preservation and open decisions. Keep relocation separate from substantive revision.
 
-Use the source coverage from MOG-PREP-01 and the intake lessons from MOG-PREP-02. Drafting can proceed in parallel. Approval of a map is not permission to move product files.
+**Dependency:** use ENT-38's source coverage and ENT-39's intake lessons without treating either as a blanket ban on drafting. The current map is author preparation; affected content owners, reviewer acceptance and the final physical layout remain unresolved.
 
 ### MOG-PREP-04 — Review one complete file family and demonstrate recovery
 
-**Deliver:** a dependency-complete review family with an attributable disposition and scoped recovery evidence.
+**Owning work:** [Enterprise MEG ENT-41](https://linear.app/enterprise-meg/issue/ENT-41/review-one-complete-file-family-and-demonstrate-recovery).
 
-**Accept when:** originals and complete proposed final bodies are pinned; applicable content authority, readers and preservation predicates are identified; author checks are separate from actual independent review; relevant navigation, refusal and recovery cases are examined; the receiving decision and limitations are preserved.
+**Deliver:** complete original/proposed bodies, preservation requirements, applicable review and a receiving disposition, with scoped recovery evidence. The public-entry family in the dossier is a proposed small starting case, not an approved selection or completed trial.
 
-Use authorized read-only, synthetic or isolated trials only. Applicable custody, review procedure and selected target-map decisions are dependencies. No live mutation, build certification or promotion. Restoring historical text requires a present-applicability decision, not merely finding the bytes.
+**Dependency:** approved custody, applicable content-review authority and the relevant map decisions before the affected test or change. Use authorized read-only, synthetic or isolated trials. Retrieval, reconstruction of contents and byte-identical archive reproduction are different results. No live mutation, certification or promotion.
 
-## Work identity and closure
+## Coordination without duplication
 
-Match both preparation key and intended outcome against existing tasks, including archived records where relevant. A synchronized representation must refer to the same work, not another assignment. Testimony is not automatically a task.
+Search by preparation key and intended outcome before creating work. Keep substeps within the existing task unless they have a genuinely separate owner, acceptance condition or dependency. A tool mirror is the same work identity, not a second assignment.
 
-Once real Linear IDs exist, record the project entrance and owning issue links here. Do not maintain a second status table. Keep current checkpoints short and preserve historical acceptance evidence separately.
+Use a short current checkpoint in each affected issue: completed evidence, remaining decision, next action and responsible receiver. Link exact reviewed commits; do not paste the history into issue descriptions. Keep actual dissent and decisions, not repetitive status prose. A decision records authority and exact bodies; a proposal does not become one because it is posted.
 
-Assignments require actual acceptance. Close outcomes against evidence, not a sent message. A successful command, repository commit or completed issue is not product promotion. Nothing here starts monitoring or automatically wakes another conversation.
+This conversation leads the authorized preparation; no Linear assignee, receiving steward or independent reviewer is invented from a shared account name. Release the writing turn after each bounded contribution. Posting does not wake another conversation and no monitoring is started.
+
+The [initial seed](https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/7bf3caaead331606aa226d64857038a9adfd2404/workshop/WORK_PLAN.md) remains historical evidence. Its unconfirmed-location text is superseded by this confirmed route, not deleted from history. Close work only against the owning issue's acceptance evidence and receiving decision; a successful command is not completion of the product.

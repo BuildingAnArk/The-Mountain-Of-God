@@ -1,66 +1,79 @@
 # Ecosystem history and shape
 
-**Standing:** initial working dossier; noncanonical and incomplete.  
-[Source identities](SOURCE_CATALOG.json) · [Work coordination](WORK_PLAN.md)
+**Standing:** working dossier and placement proposal; noncanonical and incomplete.  
+[Source identities](SOURCE_CATALOG.json) · [Owning work](WORK_PLAN.md)
 
-## Intended scope
+## Intended scope and boundaries
 
-Preserve the existing ecosystem, recover how it developed, and let that understanding determine its future organization. The Mountain of God, Crossroads of the Seeker and related components belong in the product scope. This does not establish current release membership, packaging or authority precedence.
+Preserve the ecosystem as received, recover why it took its shape, and let that understanding determine its future organization. The Mountain of God, Crossroads of the Seeker and related components belong to this product-level scope. This does not establish their current release membership, approved packaging or authority precedence.
 
-Keep product membership, authority, dependency and physical storage as separate maps. A containing folder does not grant its README authority over the bodies beneath it. Similar wording does not prove redundancy. Meaning, lore and room for rest must remain recognizable; the workshop is not the product.
+Keep product membership, authority, dependencies and physical storage as separate maps. A containing folder does not grant its README authority over protected bodies. Similar wording does not prove redundancy. The Mountain's meaning, lore, warmth and rest must remain recognizable; the workshop is not the product.
 
-## Directly established public sources
+The current public source is snapshot `bb1efaec9df37d563eb518b26aad25bb1460fd20`, tree `93db8a91e3a2cfd7a18983e6334447f3616a566a` (PUB-001). Catalogue keys below bind exact source paths and Git blobs. The initial workshop at `7bf3caaead331606aa226d64857038a9adfd2404` is preparation history, not a later product release.
 
-| Source key | Observed content | Limit |
+## First source-to-destination map
+
+These are real source paths and proposed review destinations, not executed moves. All named product files stay at their original paths and bytes.
+
+| Family and sources | Reader or function | Working destination | Preservation and remaining question |
+| --- | --- | --- | --- |
+| Public entrance: `README.md` (PUB-002), `TRAVELLER_INSTRUCTIONS.md` (PUB-006) | Traveller; public orientation | This dossier's public-entry review below; ENT-40, then applicable ENT-41 review | Preserve both bodies and consent boundaries. README names Traveller Instructions; the destination body was read. Human usefulness is not yet independently tested. |
+| Pathfinder reference: `MOUNTAIN_MAP.md` (PUB-007), `PATHFINDER_PROTOCOL.md` (PUB-008) | Pathfinder-facing structural reference and conduct | Reader map here; references in SOURCE_CATALOG.json | Keep the map's audience restriction and the protocol's distinct statements. Do not silently reconcile differing movement language or select one as a blanket override. |
+| Release boundaries: `manifest.yaml` (PUB-003), `CONTRIBUTING.md` (PUB-004) | Maintainer checking edition, protected paths and contribution constraints | Source-custody review, ENT-38 | Preserve the frozen 17.0.0 declaration and sealed-path reference. The statement of enforcement is not independent proof of enforcement. |
+| Legacy instructions: `PROJECT_INSTRUCTIONS.md` (PUB-005) | Historical reference | Preserve exact source and its legacy standing in the catalogue | Do not treat the filename as the current instruction set or rename it without tracing consumers. |
+| Referenced training: `pathfinder_training/wonder_guardrails.md` named by PUB-008 | Intended protocol support | Exact-path finding REF-002 in catalogue; within ENT-38/ENT-40 scope | File and containing-directory requests returned 404 at this public snapshot. No body ingested, global-loss conclusion or historical restoration authorized. |
+| Whole-ecosystem editions, Crossroads and related works | Broader product relationships | Same dossier after classified source intake | Still in scope; not falsely represented by the selected public Mountain alone. No speculative version, empty component tree or imported private metadata. |
+| Founder accounts, conversations, attachments and decisions | Historical understanding | Approved custody plus the receiving convention below | Originals remain complete; topic views link them. Current custodians and disclosure permissions must be established before restricted intake. |
+
+## Information placement
+
+This is the proposed kitchen organization, not permission to relocate product files.
+
+| Information | Maintained location now | Growth rule |
 | --- | --- | --- |
-| PUB-001 | Public snapshot `bb1efaec9df37d563eb518b26aad25bb1460fd20`; root tree `93db8a91e3a2cfd7a18983e6334447f3616a566a` | Not a newly established ecosystem release baseline |
-| PUB-002 | README describes the frozen public Mountain and directs readers toward Traveller Instructions | Does not authorize a later proposal to replace the entrance |
-| PUB-003 | Manifest declares 17.0.0, locked canon, frozen release and sealed `inner_chamber.yaml` | Declaration is not independent enforcement evidence |
-| PUB-004 | Contribution guide prohibits pull requests and feature requests for that release | Workshop preparation does not reopen it |
-| PUB-005 | PROJECT_INSTRUCTIONS.md calls itself legacy, not the active public instruction set | A filename alone cannot establish authority |
+| Current entrance and boundaries | `workshop/README.md` | One entrance; link other responsibilities rather than repeat their instructions. |
+| Current historical understanding, decisions under review and placement map | `workshop/HISTORY_AND_SHAPE.md` | Split a substantial topic only when needed, keeping a stable link here. Do not make each founder a new office or manual. |
+| Source identity and selected relationships | `workshop/SOURCE_CATALOG.json` | Preserve existing IDs; add actual witnesses and occurrences. Do not silently substitute a later edition for an earlier source. |
+| Work and acceptance | Existing Linear project and four owning issues in `WORK_PLAN.md` | Linear owns live status; GitHub holds complete bodies. No second task or copied history archive. |
+| Complete originals and attachments | Approved source custody | Preserve original names, package boundaries and internal paths. Restricted destination remains unresolved; this public branch is not the default. |
+| A future full-body proposal | Review-specific working location after scope acceptance | Only create when a real complete body exists; record its source path and hash. Keep it explicitly nonoperative. |
+| Accepted release and recovery evidence | Applicable release custody | Exact delivered bytes, separate authority and scoped checks; not implied by a working commit. |
 
-The four selected file bodies and repository metadata were read. This is not semantic review of every file. Other editions and history findings require source linkage and disclosure classification before public intake here.
+No new folders are required for this pass. A new administrative body must have a distinct purpose, audience, maintainer and reason to change. A derived view must identify its source and regeneration method; it must not become another independently maintained truth.
 
-## First placement model
+## History receiving convention
 
-Existing product paths remain unchanged. This is the working kitchen's initial arrangement, not a final product-tree design.
+Preserve the original first in a destination approved for its disclosure class. Then make one receiving record in the catalogue or appropriate restricted register. These fields describe preparation evidence, not new canonical statuses.
 
-| Information responsibility | Initial home | Placement rule |
-| --- | --- | --- |
-| Existing public Mountain | Existing root and subpaths | No relocation until readers, dependencies and approvals are resolved |
-| Current historical explanation and proposed shape | This dossier | Add topic bodies only when needed; link rather than duplicate |
-| Source identity and lineage | SOURCE_CATALOG.json | One source identity; retain distinct occurrence and delivery witnesses |
-| Originals and restricted evidence | Approved source custody, not presumed to be this public repo | Preserve full originals and attachments; disclose only approved material |
-| Complete future file proposals | Review-specific location after scope acceptance | Clearly proposed; never replace an original silently |
-| Work, next action and receiving state | Confirmed Linear project, once selected | One owning task per outcome; no copied history archive |
-| Accepted release artifacts | Separately governed release custody | Exact delivered bytes, approvals and scoped evidence |
+| Record part | Capture |
+| --- | --- |
+| Identity and origin | Stable source ID; original title, contributor and source location; source date or explicit unknown; separate intake date. |
+| Complete custody | Full body and all available attachments; exact path within each package; byte size and SHA-256 for held bytes, Git blob/commit for Git sources; actual custodian and access class. Record missing attachments. |
+| Relationships | Corrects, supplements, contradicts, derives from or repeated delivery of a named source. Distinct witnesses remain distinct. Identical bytes do not erase occurrence history. |
+| Meaning and uncertainty | What the source says and what remains unknown, with quotations or precise locations. Keep testimony, direct inspection and inference distinguishable. |
+| Current use | Link the one topic account affected; record applicable standing rather than equating retention with authority. NO_CHANGE is allowed. |
+| Work and receipt | Existing owning issue only if there is a meaningful unresolved outcome; actual receiver and disposition. Delivered, accepted and completed are different. |
 
-Do not pre-create empty folders for every component or role. The next target map must connect each in-scope family to its source identity, proposed destination, reason, preservation requirement, affected readers and open decision.
+Later corrections remain linked witnesses; never overwrite the original to make the story smoother. The receiver handles classification, not the founder. The full intake-and-correction pilot remains unperformed. No source is fabricated to demonstrate the process.
 
-## History coverage and terminology
+A material decision record should identify the question, alternatives, evidence, deciding authority, exact affected bodies, disposition and limits. Preserve that decision with its evidence; the current account points to it. Do not silently replace inherited meanings of Ledger, Docket or Gold Coins with another project's terminology.
 
-Recover artifact history, original conversations and attachments, decisions and reasons, and actual operating evidence. Preserve failures, rejected proposals, corrections, terminology changes and disagreements. Keep source dates separate from intake dates and retain unknowns.
+## Public-entry review scaffold
 
-Distinguish known, located, byte-preserved, body-read, historically interpreted and recovery-tested coverage. These are proposed reporting fields, not replacement product statuses. Archive size is not completeness; an explanatory summary is not a missing original.
+**Candidate family:** PUB-002 and PUB-006. **Current preparation disposition:** preserve both unchanged; this is not a final independent acceptance.
 
-Connect original witness -> preserved occurrences/versions -> applicable standing -> reader or consumer -> current account -> unresolved work. Retention, parsing success, a role name or a completed ticket does not establish permission.
+The author's static trace establishes that README tells readers to begin with Traveller Instructions and the named file exists at the pinned snapshot. The Traveller body protects consent and permission to stop; both full bodies remain available at their exact source identities. This proves a bounded reference trace, not a user trial, complete dependency map or whole-product recovery.
 
-Current public coverage is five entries: the snapshot and four selected files. Whole-ecosystem package history, conversation archives and Council succession evidence are not ingested here; do not infer their absence elsewhere.
+The later review must identify incoming references, applicable content authority and actual reviewer; test that a reader can find the entrance without entering the engineering backlog; recover the exact bodies from approved custody; and record receiving disposition. Do not revise either file merely to make the workshop's examples easier.
 
-Recover definitions of Ledger, Docket, Gold Coins and other inherited terms by version and purpose before reusing them. Historical offices, current assignments and actual availability are separate facts. Do not silently substitute another project's vocabulary.
+The Pathfinder protocol also names a training path that was not retrievable at this snapshot. REF-002 records the exact request and limit. Search other authorized sources for its history or successor before proposing a repair; absence here does not prove loss everywhere.
 
-## Review standard for the proposed shape
+## Coverage and next decisions
 
-A successor should find a component's complete original, material history, applicable responsibility, readers, proposed destination and remaining uncertainty without requiring a founder to reconstruct the conversation.
+This public catalogue contains one snapshot and seven selected file bodies. It is not a complete repository census, package-history import, conversation archive, Council-history recovery or rebuild demonstration. No percentage of historical completeness is claimed.
 
-Walk the entrances separately as a Traveller or Seeker, returning Pathfinder, content reviewer and engineer. Useful navigation must not add spiritual pressure or expose everyone to the engineering backlog.
+Track known, located, byte-preserved, body-read, interpreted and recovery-tested coverage separately. These are descriptive evidence fields, not replacements for product contract results. Recover original discussions, failures, rejected options and corrections as well as successful releases. An archive's size and a polished summary are not completeness.
 
-Prove one original contribution and correction can be handled without duplicate tasks or competing current accounts. Demonstrate recovery from actual custody. Recovering an original archive, reconstructing its file contents and reproducing identical archive bytes are separate claims.
+The actual Linear destination is established in the work plan. Still unresolved: approved restricted custody and receiver (ENT-38), a complete original/correction pilot (ENT-39), broader source-to-destination and audience review (ENT-40), and authority/review/recovery acceptance for a complete family (ENT-41). The working map can grow while these bounded questions are resolved.
 
-For material decisions, preserve question, alternatives, evidence, exact proposed bodies, actual deciding authority, disposition and limits. A proposal or author's interpretation is not a decision.
-
-## Remaining decisions
-
-Confirm the Mountain Linear workspace/team and restricted-source custody before those writes. Establish accepted release identities, current content-review responsibilities, protected-file change procedures and the final target map from actual sources.
-
-Hold only affected actions. Public-safe design and read-only recovery can continue. This dossier grants no Council appointment, private-history publication, product mutation or release authority.
+This proposal neither appoints a Council nor grants private publication, product mutation or release authority. Hold only the affected action, with reason, evidence, owner and release condition; do not stop unrelated public-safe design.

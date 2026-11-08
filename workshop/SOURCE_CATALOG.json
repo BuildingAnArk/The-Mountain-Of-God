@@ -1,10 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "standing": "noncanonical_public_source_catalogue",
   "captured_on": "2026-11-07",
   "repository": "BuildingAnArk/The-Mountain-Of-God",
   "source_commit": "bb1efaec9df37d563eb518b26aad25bb1460fd20",
-  "coverage": "One public snapshot and four selected public file bodies; not a complete ecosystem or history inventory.",
+  "coverage": "One public snapshot and seven selected public file bodies; not a complete ecosystem or history inventory.",
+  "identity_note": "Source IDs are stable within this catalogue. Git blob SHA-1 is not a package SHA-256. Existing PUB-001 through PUB-005 identities are retained. References below are observations, not repaired pointers or canonical statuses.",
   "entries": [
     {
       "id": "PUB-001",
@@ -22,7 +23,7 @@
       "git_blob_sha1": "7ec6c8b4197ceb1bb46a65fb9ef0ef1cbdd2c085",
       "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/README.md",
       "inspection": "Full body read through GitHub connector",
-      "disposition": "Preserve unchanged in initial workshop"
+      "disposition": "Preserve unchanged in workshop preparation"
     },
     {
       "id": "PUB-003",
@@ -31,7 +32,7 @@
       "git_blob_sha1": "09aa41e878b9bba5185050874b5e46351a2a666a",
       "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/manifest.yaml",
       "inspection": "Full body read through GitHub connector",
-      "disposition": "Preserve unchanged in initial workshop"
+      "disposition": "Preserve unchanged in workshop preparation"
     },
     {
       "id": "PUB-004",
@@ -40,7 +41,7 @@
       "git_blob_sha1": "33eee1344d55542c897cc5b2c134d4a4dc72205b",
       "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/CONTRIBUTING.md",
       "inspection": "Full body read through GitHub connector",
-      "disposition": "Preserve unchanged in initial workshop"
+      "disposition": "Preserve unchanged in workshop preparation"
     },
     {
       "id": "PUB-005",
@@ -49,7 +50,57 @@
       "git_blob_sha1": "95cb7d2b152e855b342819b5a2c5cc8ace24a689",
       "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/PROJECT_INSTRUCTIONS.md",
       "inspection": "Full body read through GitHub connector",
-      "disposition": "Preserve unchanged in initial workshop"
+      "disposition": "Preserve unchanged in workshop preparation"
+    },
+    {
+      "id": "PUB-006",
+      "kind": "file",
+      "path": "TRAVELLER_INSTRUCTIONS.md",
+      "git_blob_sha1": "d9cfb8dcba812772eb43a9f511fae9f6f014c589",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/TRAVELLER_INSTRUCTIONS.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in workshop preparation"
+    },
+    {
+      "id": "PUB-007",
+      "kind": "file",
+      "path": "MOUNTAIN_MAP.md",
+      "git_blob_sha1": "9b7019bf3cca43693ab310041161a4941ae5f10f",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/MOUNTAIN_MAP.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in workshop preparation"
+    },
+    {
+      "id": "PUB-008",
+      "kind": "file",
+      "path": "PATHFINDER_PROTOCOL.md",
+      "git_blob_sha1": "75f69b92c9ed2a36965e5ca7bad3b1aceb1ad756",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/PATHFINDER_PROTOCOL.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in workshop preparation"
+    }
+  ],
+  "references": [
+    {
+      "id": "REF-001",
+      "from_source": "PUB-002",
+      "literal_reference": "Traveller Instructions",
+      "resolved_source": "PUB-006",
+      "observation": "The README names Traveller Instructions and TRAVELLER_INSTRUCTIONS.md was read at the same commit.",
+      "scope": "Static author inspection; no user trial or claim that all inbound references were traced."
+    },
+    {
+      "id": "REF-002",
+      "from_source": "PUB-008",
+      "literal_reference": "pathfinder_training/wonder_guardrails.md",
+      "resolved_source": null,
+      "observation": "Exact file and containing-directory requests both returned 404 at the pinned public snapshot.",
+      "checked_urls": [
+        "https://api.github.com/repos/BuildingAnArk/The-Mountain-Of-God/contents/pathfinder_training/wonder_guardrails.md?ref=bb1efaec9df37d563eb518b26aad25bb1460fd20",
+        "https://api.github.com/repos/BuildingAnArk/The-Mountain-Of-God/contents/pathfinder_training?ref=bb1efaec9df37d563eb518b26aad25bb1460fd20"
+      ],
+      "scope": "No claim of loss in other packages, current authority, or permission to restore a historical body.",
+      "next_action": "Trace authorized source history and any documented successor within the existing custody and placement work."
     }
   ]
 }
