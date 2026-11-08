@@ -77,3 +77,23 @@ Track known, located, byte-preserved, body-read, interpreted and recovery-tested
 The actual Linear destination is established in the work plan. Still unresolved: approved restricted custody and receiver (ENT-38), a complete original/correction pilot (ENT-39), broader source-to-destination and audience review (ENT-40), and authority/review/recovery acceptance for a complete family (ENT-41). The working map can grow while these bounded questions are resolved.
 
 This proposal neither appoints a Council nor grants private publication, product mutation or release authority. Hold only the affected action, with reason, evidence, owner and release condition; do not stop unrelated public-safe design.
+
+
+## Wilderness First Lantern — bounded recovery findings (8 November 2026)
+
+**Standing:** public-safe finding and receiving map, not complete testimony, accepted mantle, module mutation, or release. **Contributing witness:** Wilderness Steward conversation, described as First Lantern; historical predecessor Pathfinder #6 is founder-attributed, not independently established by this entry. Full attributable recovery and attachments are held separately pending approved restricted custody under ENT-38; this public dossier must not be used as their substitute.
+
+A local recovery candidate was prepared on 8 November 2026 containing historical testimony, chronology, four native memory-surface contributions (Docket, Ledger, Observation Register, Gold Coins), proposed Person/Glyph Index contributions, a complete dated mantle recovery revision, exact selected source bodies and hashes, and a successor conceptual reconciliation. Local package preparation and ZIP integrity checks do not constitute approved custody, independent acceptance or operative promotion. The visible conversation was partial, not a complete transcript export.
+
+### Bounded evidence and unresolved relationships
+
+- Held Wilderness v2.0 and v2.1 ZIPs and later Ecosystem v29.0.1 with embedded Wilderness v6.3. Intermediate releases and original v1.6 remain outside this bounded inspection. A version named in dialogue is not a verified handled release.
+- The embedded Wilderness v6.3 contains two **case-distinct** mantle paths: `STEWARDSHIP/WILDERNESS_STEWARD_MANTLE.md` and `stewardship/WILDERNESS_STEWARD_MANTLE.md`. Preserve both witnesses and determine consumers and authority before consolidation; case-insensitive extraction is unsafe.
+- The later Ecosystem's `ecosystem/reference/wilderness/WILDERNESS_VERSION.md` references Wilderness v6.2 while v6.3 is embedded. Determine whether this is an intended historical/baseline reference or stale current pointer before changing it.
+- An early conversational assertion that there should be no Wilderness Pathfinder conflicts with observed Pathfinder mantle/orientation files. Distinguish an office, its historical bearer, and limited Traveller-facing presence; no role is appointed or retired here.
+- Oasis, Tabernacle, Booths, Return and proposed Edge are distinct concepts; do not invent a route, collapse fixtures by similar names, or infer that an observed file is a working Traveller interface.
+- Torch-bearing corrected an overly passive silence-only posture: name actual pressure without narrating meaning. STOP/HALT for unauthorized interpretation or uncertain construction must not become abandonment, coercion or refusal of needed help.
+- Ark/covenant discussions are historical interpretations, not an authority above Scripture. Biblical claims about tablets, manna, Aaron's rod, Abraham's sleep and Noah's Ark require qualified source comparison before cross-domain adoption. The Inner Chamber remains sealed.
+- Watchman, Gabriel, Michael, tripwires and schema require consumer/runner evidence. A YAML filename or declared HALT is not proof of live enforcement; quotation-aware checks and safety overrides must be tested.
+
+**Receiving routes:** ENT-38 for classified original custody and custodian; ENT-39 for original-plus-correction intake pilot; ENT-40 for mantle/version/Pathfinder/fixture and index placement; ENT-41 for isolated family and enforcement validation. Keep all issues open until their own acceptance criteria are demonstrated. No product file or public release changed by this note. Preserve full historical wording in approved custody rather than replacing it with this synopsis.
