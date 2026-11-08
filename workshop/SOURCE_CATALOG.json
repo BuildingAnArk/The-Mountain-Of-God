@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "standing": "noncanonical_public_source_catalogue",
+  "captured_on": "2026-11-07",
+  "repository": "BuildingAnArk/The-Mountain-Of-God",
+  "source_commit": "bb1efaec9df37d563eb518b26aad25bb1460fd20",
+  "coverage": "One public snapshot and four selected public file bodies; not a complete ecosystem or history inventory.",
+  "entries": [
+    {
+      "id": "PUB-001",
+      "kind": "repository_snapshot",
+      "commit": "bb1efaec9df37d563eb518b26aad25bb1460fd20",
+      "tree": "93db8a91e3a2cfd7a18983e6334447f3616a566a",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/tree/bb1efaec9df37d563eb518b26aad25bb1460fd20",
+      "inspection": "Remote commit and tree metadata read; complete clone/restore not demonstrated.",
+      "standing": "Public source snapshot, not newly established ecosystem release authority."
+    },
+    {
+      "id": "PUB-002",
+      "kind": "file",
+      "path": "README.md",
+      "git_blob_sha1": "7ec6c8b4197ceb1bb46a65fb9ef0ef1cbdd2c085",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/README.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in initial workshop"
+    },
+    {
+      "id": "PUB-003",
+      "kind": "file",
+      "path": "manifest.yaml",
+      "git_blob_sha1": "09aa41e878b9bba5185050874b5e46351a2a666a",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/manifest.yaml",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in initial workshop"
+    },
+    {
+      "id": "PUB-004",
+      "kind": "file",
+      "path": "CONTRIBUTING.md",
+      "git_blob_sha1": "33eee1344d55542c897cc5b2c134d4a4dc72205b",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/CONTRIBUTING.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in initial workshop"
+    },
+    {
+      "id": "PUB-005",
+      "kind": "file",
+      "path": "PROJECT_INSTRUCTIONS.md",
+      "git_blob_sha1": "95cb7d2b152e855b342819b5a2c5cc8ace24a689",
+      "url": "https://github.com/BuildingAnArk/The-Mountain-Of-God/blob/bb1efaec9df37d563eb518b26aad25bb1460fd20/PROJECT_INSTRUCTIONS.md",
+      "inspection": "Full body read through GitHub connector",
+      "disposition": "Preserve unchanged in initial workshop"
+    }
+  ]
+}
