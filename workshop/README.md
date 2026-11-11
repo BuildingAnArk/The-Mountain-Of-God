@@ -37,7 +37,7 @@ The catalogue identifies evidence. The dossier explains current understanding. L
 
 This repository and workshop branch are public. A branch is not a privacy boundary. Keep private conversations, personal histories, restricted attachments, unclassified packages and private-repository evidence out. Even source metadata needs disclosure review. Complete historical recovery does not imply complete public disclosure.
 
-The restricted-source destination and responsible custodian remain unresolved under the existing source-custody task. This blocks restricted intake/publication, not public-safe mapping. A sandbox file, accessible link or Git reference alone is not proof of an independent recovery copy.
+Restricted historical contributions have a private receiving route. Ask the project’s receiving Steward for the appropriate way to submit originals. Wider historical recovery and independent backup verification remain open.
 
 ## Contribution and review
 
@@ -49,6 +49,6 @@ State the purpose, audience, applicable authority, dependencies, complete propos
 
 The GitHub/Linear locations are established. This pass expands the existing source catalogue to one snapshot and seven selected public bodies, adds a first reader-and-placement map, and connects the four existing tasks. It is not a complete ecosystem history, approved target tree, independent review or operational release pipeline.
 
-An exact training reference in the public protocol remains unresolved at the pinned snapshot; see the dossier and catalogue. No product repair follows from that finding. The next bounded work is source custody and the mapped public-entry family, with the original/correction pilot still unperformed.
+An exact training reference in the public protocol remains unresolved at the pinned snapshot; see the dossier and catalogue. No product repair follows from that finding. The mapped public-entry family remains open for review. The original-and-correction pilot is handled through the private receiving route.
 
 Maintain current checkpoints in place; preserve historical revisions and original evidence separately. Use maintained branch links for navigation and exact commits for evidence. Do not stack another manual, status table or delivery packet on every update.
